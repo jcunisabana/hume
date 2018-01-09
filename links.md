@@ -9,4 +9,7 @@ Página de la revista *Hume Studies*. Los artículos de antes del 2010 son de li
 https://philpapers.org/browse/david-hume
 La categoría de Hume en [Phil Papers](http://philpapers.org/)
 
+[Carpeta virtual en OneDrive](https://unisabanaedu-my.sharepoint.com/personal/juanesse_unisabana_edu_co/Documents/Hume?csf=1&e=upV0MK)
+Carpeta en OneDrive con bibliografía relevante.
+
 [gimmick:theme](united)
