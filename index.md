@@ -29,8 +29,43 @@ http://jcunisabana.github.io/hume
 
 * El estudiante utiliza TIC para apoyar el estudio filosófico de la obra de David Hume.
 
+## Evaluación
+
+Se evaluará a los estudiantes por medio de controles de lectura, protocolos, relatorías, y un ensayo argumentativo.
+<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
+
+
+| Corte | Actividad | Valor Porcentual|
+| ------------- |-------------| -----|
+| 1 | Controles de lectura| 15% |
+| 1 | Reseña    |   15% |
+| 2 | Protocolo    |   15% |
+| 2 | Relatoría | 15% |
+| 3 | Abstract del ensayo argumentativo    |   10% |
+| 3 | Ensayo argumentativo | 30% |
+
+#### Controles de lectura
+
+Para cada lectura asignada, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+
+#### Reseña  
+
+Resumen argumentativo: debe presentar el punto central del texto, explicarlo y señalar las razones principales ofrecidas en su favor. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+
+#### Protocolo  
+Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión. Deber procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas.
+
+#### Relatoría  
+Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas.
+
+#### Abstract del ensayo argumentativo  
+Un texto argumentativo de mínimo 400 y máximo 500 palabras en donde se presente un resumen de  la tesis principal y la estrategia argumentativa que usará. 
+
+#### Ensayo argumentativo
+
+Un texto argumentativo de 4-6 páginas en donde se defienda una tesis filosófica. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+
+
 
 <!-- toc -->
-[](#Descripción del curso)
-[](#Objetivos esperados de aprendizaje)
 <!-- tocstop -->
