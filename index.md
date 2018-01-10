@@ -35,7 +35,7 @@ Se evaluará a los estudiantes por medio de controles de lectura, protocolos, re
 <p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
 
 
-| Corte | Actividad | Valor Porcentual|
+| Corte | Actividad | Valor Porcentual |
 | ------------- |-------------| -----|
 | 1 | Controles de lectura| 15% |
 | 1 | Reseña    |   15% |
@@ -53,7 +53,7 @@ Para cada lectura asignada, los estudiantes deben escribir un texto corto con la
 Resumen argumentativo: debe presentar el punto central del texto, explicarlo y señalar las razones principales ofrecidas en su favor. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 #### Protocolo  
-Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión. Deber procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas.
+Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión y procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas.
 
 #### Relatoría  
 Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas.
@@ -65,7 +65,3 @@ Un texto argumentativo de mínimo 400 y máximo 500 palabras en donde se present
 
 Un texto argumentativo de 4-6 páginas en donde se defienda una tesis filosófica. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
-
-
-<!-- toc -->
-<!-- tocstop -->
