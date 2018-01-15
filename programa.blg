@@ -1,0 +1,20 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'programa.blg'
+[46] biber-darwin:303> INFO - === Thu Jan 11, 2018, 08:55:52
+[69] Biber.pm:359> INFO - Reading 'programa.bcf'
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 1
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 2
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[179] Biber.pm:832> INFO - Using all citekeys in bib section 3
+[179] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[214] Biber.pm:3670> INFO - Processing section 3
+[232] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/juanespejo/Documents/Latex/BibTex/hume.bib' for section 3
+[235] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[241] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/juanespejo/Documents/Latex/BibTex/hume.bib'
+[299] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[299] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[299] Biber.pm:3499> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[309] bbl.pm:608> INFO - Writing 'programa.bbl' with encoding 'UTF-8'
+[310] bbl.pm:712> INFO - Output to programa.bbl

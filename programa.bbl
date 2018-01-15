@@ -1,0 +1,244 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{3}
+  \sortlist[entry]{apa/global/}
+    \entry{fodor2005hume}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f65e4b87ef2da88b6ec2c8695805808e}{%
+           family={Fodor},
+           familyi={F\bibinitperiod},
+           given={Jerry\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f65e4b87ef2da88b6ec2c8695805808e}
+      \strng{fullhash}{f65e4b87ef2da88b6ec2c8695805808e}
+      \strng{authornamehash}{f65e4b87ef2da88b6ec2c8695805808e}
+      \strng{authorfullhash}{f65e4b87ef2da88b6ec2c8695805808e}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hume variations}
+      \field{year}{2005}
+    \endentry
+    \entry{hume2009tratado}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8fd91102ac431dcdcc4641419cdfb8f0}{%
+           family={Hume},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Orbis}%
+      }
+      \strng{namehash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{fullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{authornamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{authorfullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tratado da natureza humana-2a Edição}
+      \field{year}{1981}
+    \endentry
+    \entry{Hume:2000aa}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8fd91102ac431dcdcc4641419cdfb8f0}{%
+           family={Hume},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{fullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{authornamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \strng{authorfullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0198751729}
+      \field{title}{A Treatise of Human Nature (Oxford Philosophical Texts)}
+      \field{year}{2000}
+    \endentry
+    \entry{hume1980s}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=27890c8e8faa8c1fe98884f4b08421b4}{%
+           family={Mackie},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{27890c8e8faa8c1fe98884f4b08421b4}
+      \strng{fullhash}{27890c8e8faa8c1fe98884f4b08421b4}
+      \strng{authornamehash}{27890c8e8faa8c1fe98884f4b08421b4}
+      \strng{authorfullhash}{27890c8e8faa8c1fe98884f4b08421b4}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hume's Moral Theory}
+      \field{year}{1980}
+    \endentry
+    \entry{Noonan:1999aa}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2c916dff95ebd0b44ebfb36b00a961f0}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2c916dff95ebd0b44ebfb36b00a961f0}
+      \strng{fullhash}{2c916dff95ebd0b44ebfb36b00a961f0}
+      \strng{authornamehash}{2c916dff95ebd0b44ebfb36b00a961f0}
+      \strng{authorfullhash}{2c916dff95ebd0b44ebfb36b00a961f0}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0415150477}
+      \field{title}{Routledge Philosophy Guidebook to Hume on Knowledge}
+      \field{year}{1999}
+    \endentry
+    \entry{norton2008cambridge}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0447cb92518c6922a5e75d25fd9b6459}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={David\bibnamedelima Fate},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=f082029f8dacda6074122066ba3870fb}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5b46d1c5f295b2c64ab83edf5bd3f659}
+      \strng{fullhash}{5b46d1c5f295b2c64ab83edf5bd3f659}
+      \strng{authornamehash}{5b46d1c5f295b2c64ab83edf5bd3f659}
+      \strng{authorfullhash}{5b46d1c5f295b2c64ab83edf5bd3f659}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Cambridge Companion to Hume}
+      \field{year}{2008}
+    \endentry
+    \entry{radcliffe2010companion}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c16457dfdc3647910a697073878f4494}{%
+           family={Radcliffe},
+           familyi={R\bibinitperiod},
+           given={Elizabeth\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{c16457dfdc3647910a697073878f4494}
+      \strng{fullhash}{c16457dfdc3647910a697073878f4494}
+      \strng{authornamehash}{c16457dfdc3647910a697073878f4494}
+      \strng{authorfullhash}{c16457dfdc3647910a697073878f4494}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A companion to Hume}
+      \field{year}{2010}
+    \endentry
+    \entry{stroud1977hume}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb934b94c4c30afa5acd12bdc30ba4df}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{fullhash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{authornamehash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{authorfullhash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hume}
+      \field{year}{1977}
+    \endentry
+    \entry{stroud1977humeesp}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb934b94c4c30afa5acd12bdc30ba4df}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional Autónoma de México}%
+      }
+      \strng{namehash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{fullhash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{authornamehash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \strng{authorfullhash}{cb934b94c4c30afa5acd12bdc30ba4df}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hume}
+      \field{year}{1986}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
