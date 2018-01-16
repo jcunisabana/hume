@@ -29,6 +29,7 @@ Relatoría:
 Protocolo:  
 
 ## Semana 5
+
 Escepticismo y la filosofía humeana. 
 Lectura: Libro 1, Parte 4 
 Relatoría: 
@@ -56,13 +57,10 @@ Lectura:
 Relatoría: 
 Protocolo:  
 
-
-
 --- 
-## Comentaristas
 ## Semanas 9-16
-¿Es qué consistente el principio de la copia?
-Según Hume, ¿eué es la filosofía y cómo se hace?
+¿Es consistente el principio de la copia?
+¿Qué idea de la filosofía tiene Hume?
 ¿Cuál es la noción del Yo de Hume?
 ¿Existe según Hume el mundo exterior?
 ¿Tiene Hume una noción positiva de causa?
@@ -71,6 +69,6 @@ Según Hume, ¿eué es la filosofía y cómo se hace?
 ¿Por qué cree Hume que la razón es esclava de las pasiones?
 ¿Cómo entiende Hume la relación entre acción, razón y pasión?
 ¿Cómo entiende Hume la relación entre razón, pasión y moralidad?
-¿Cómo entiende Hume la relación moralidad y sociedad?
+¿Cómo entiende Hume la relación entre moralidad y sociedad?
 <!-- toc -->
 <!-- tocstop -->

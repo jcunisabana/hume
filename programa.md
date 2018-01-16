@@ -60,7 +60,8 @@ unidades por cada día tarde.
 
    Corte  Actividad                            Valor Porcentual
   ------- ----------------------------------- ------------------
-     1    Controles de lectura                       15%
+     1    Controles de lectura semanales             15%
+     1    Comentarios semanales                      15%
      1    Reseña                                     15%
      2    Protocolo                                  15%
      2    Relatoría                                  15%

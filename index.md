@@ -29,39 +29,60 @@ http://jcunisabana.github.io/hume
 
 * El estudiante utiliza TIC para apoyar el estudio filosófico de la obra de David Hume.
 
+## Metodología
+
+Cada sesión del seminario girará en torno a la relatoría que el estudiante encargado deberá subir a la plataforma al menos *48 horas antes de la sesión*. Los demás estudiantes deberán subir el control de lectura por tarde *75 horas antes de la sesión* para luego leer la relatoría, escribir una respuesta corta a ella y subir la respuesta a la plataforma al menos *3  horas antes de la sesión*. 
+
+Atención: si la sesión es el lunes 5 de Febrero a las 10 am, la persona que esté encargada de la relatoría debe subirla a la plataforma virtual por tarde el *sábado 3 a las 10 am*. Los demás estudiantes deberán subir su control de lectura el antes del *viernes 2 a las 7am* y sus comentarios a la relatoría *el lunes 5 a las 7am*. Quien esté a cargo del protocolo, además, deberá tener listo su protocolo para ser leído en la sesión el lunes 5 de Febrero a las 10 am.
+
+
 ## Evaluación
 
-Se evaluará a los estudiantes por medio de controles de lectura, protocolos, relatorías, y un ensayo argumentativo.
-<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
-
+Se evaluará a los estudiantes por medio de controles de lectura, protocolos, relatorías, comentarios cortos y un ensayo argumentativo.
+<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde. No haber entregado antes de la hora acordada equivale a entregar un día tarde.</p>
 
 | Corte | Actividad | Valor Porcentual |
 | ------------- |-------------| -----|
-| 1 | Controles de lectura| 15% |
-| 1 | Reseña    |   15% |
+| 1 | Controles de lectura semanales| 15% |
+| 1 | Comentarios a las relatorías| 15% |
 | 2 | Protocolo    |   15% |
 | 2 | Relatoría | 15% |
 | 3 | Abstract del ensayo argumentativo    |   10% |
 | 3 | Ensayo argumentativo | 30% |
 
 #### Controles de lectura
+Extensión: entre 400 y 1000 palabras.
 
-Para cada lectura asignada, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+Para cada lectura asignada, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto.
 
-#### Reseña  
+Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
-Resumen argumentativo: debe presentar el punto central del texto, explicarlo y señalar las razones principales ofrecidas en su favor. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+#### Comentarios a las relatorías
+Extensión: entre 400 y 500 palabras.
 
-#### Protocolo  
-Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión y procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas.
+Para cada relatorías, todos los estudiantes (salvo quien esté a cargo de la relatoría) deberán escribir un texto corto en respuesta. La respuesta puede tomar diferentes formas pero esencialmetne debe ser la respuesta a una pregunta, explícita o implícita, en la relatoría. 
+
+Los comentarios deberán ser subidos a la plataforma virtual a más tardar el *lunes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+
+#### Protocolo
+Extensión: entre 1500 y 2500 palabras.
+
+En cada sesión del seminario, habrá alguien a cargo de tomar los puntos centrales tanto de la relatoría como de la discusión y ofrecer un recuento de ellos por escrito. 
+
+El protocolo deberá estar disponible para ser leído por todos al comienzo de la sesión. En clase se ofrecerán las instrucciones más precisas. 
 
 #### Relatoría  
-Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas.
+Extensión: entre 1500 y 2500 palabras.
+
+Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas. 
 
 #### Abstract del ensayo argumentativo  
-Un texto argumentativo de mínimo 400 y máximo 500 palabras en donde se presente un resumen de  la tesis principal y la estrategia argumentativa que usará. 
+Extensión: entre 400 y 500 palabras.
+
+Un texto argumentativo corto en donde se presente un resumen de  la tesis principal y la estrategia argumentativa que usará. 
 
 #### Ensayo argumentativo
+Extensión: entre 2000 y 3000 palabras.
 
-Un texto argumentativo de 4-6 páginas en donde se defienda una tesis filosófica. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+Un texto argumentativo de en donde se defienda una tesis filosófica. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento. 
 
