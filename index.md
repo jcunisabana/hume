@@ -64,8 +64,6 @@ Para cada relatoría, todos los estudiantes (salvo quien esté a cargo de la rel
 
 Los comentarios deberán ser subidos a la plataforma virtual a más tardar el *lunes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
-Atención: Los controles de lectura 
-
 #### Protocolo
 Extensión: entre 1000 y 2000 palabras.
 
