@@ -70,7 +70,7 @@ Protocolo:
 ## Semana 8
 Tema: Amor y odio
 Lectura: Libro II, Parte II
-Relatoría:  
+Relatoría:  Margarita
 Protocolo: 
 
 ## Semana 9
