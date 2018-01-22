@@ -3,7 +3,14 @@
 # Plan semanal
 
 ## Semana 1
-Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa y de las reglas del seminario. Repartición de relatorías y protocolos. 
+
+<a href="../presentaciones/Hume2018.html">Presentación inicial</a>
+
+
+
+Introducción a la filosofía de Hume y al *Tratado*. Presentación del programa y de las reglas del seminario. 
+Repartición de relatorías y protocolos. 
+Cuadrar clase de reposición del 19 de Marzo.
 
 ---
 
