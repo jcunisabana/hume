@@ -62,18 +62,60 @@ Relatoría: Juan Camilo
 Protocolo: 
 
 ## Semana 7
-Tema: Justicia/Amor y odio/ Orgullo y humildad
-Lectura: 
+Tema: Orgullo y humildad
+Lectura: Libro II, Parte I
 Relatoría: Camila 
 Protocolo: 
 
 ## Semana 8
-Tema: 
-Lectura: 
+Tema: Amor y odio
+Lectura: Libro II, Parte II
 Relatoría:  
 Protocolo: 
 
 ## Semana 9
+Tema: Teoría de las ideas
+Lectura: 
+Relatoría:  Juan Manuel
+Protocolo: 
+
+## Semana 10
+Tema: Razón es esclava de las razones
+Lectura: 
+Relatoría: Sergio 
+Protocolo: 
+
+## Semana 11
+Tema: 
+Lectura: 
+Relatoría:  Nicolás Murcia
+Protocolo: 
+
+## Semana 12
+Tema: 
+Lectura: 
+Relatoría:  María Fernanda
+Protocolo: 
+
+## Semana 13
+Tema: 
+Lectura: 
+Relatoría:  Isabel
+Protocolo: 
+
+## Semana 14
+Tema: Causalidad
+Lectura: 
+Relatoría:  Cristian
+Protocolo: 
+
+## Semana 15
+Tema: Naturalismo
+Lectura: 
+Relatoría:  Nicolás Naranjo
+Protocolo: 
+
+## Semana 16
 Tema: 
 Lectura: 
 Relatoría:  
