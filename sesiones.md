@@ -56,21 +56,21 @@ Protocolo:
 
 Sesión Viernes: 
 2:30 a 5:30
-
-## Semana 7
 Tema: Moralidad sin base racional
 Lectura: Libro 3, Parte 1
-Relatoría: 
+Relatoría: Juan Camilo
 Protocolo: 
 
 ## Semana 8
 Tema: Justicia/Amor y odio/ Orgullo y humildad
 Lectura: 
 Relatoría: 
-Protocolo:  
+Protocolo: 
+
+## Semana 9
+ 
 
 --- 
-## Semanas 9-16
 ¿Es consistente el principio de la copia?
 ¿Qué idea de la filosofía tiene Hume?
 ¿Cuál es la noción del Yo de Hume?
