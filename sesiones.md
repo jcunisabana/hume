@@ -61,14 +61,23 @@ Lectura: Libro 3, Parte 1
 Relatoría: Juan Camilo
 Protocolo: 
 
-## Semana 8
+## Semana 7
 Tema: Justicia/Amor y odio/ Orgullo y humildad
 Lectura: 
-Relatoría: 
+Relatoría: Camila 
+Protocolo: 
+
+## Semana 8
+Tema: 
+Lectura: 
+Relatoría:  
 Protocolo: 
 
 ## Semana 9
- 
+Tema: 
+Lectura: 
+Relatoría:  
+Protocolo: 
 
 --- 
 ¿Es consistente el principio de la copia?
