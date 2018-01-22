@@ -24,13 +24,13 @@ Relatoría: Roxanne
 Protocolo:  
 
 ## Semana 3 
-Causalidad y creencia I.  
+Causalidad y creencia I.  Parte negativa
 Lectura: Libro 1, Parte 3
 Relatoría: Cristian
 Protocolo:  
 
 ## Semana 4 
-Causalidad y creencia II.  
+Causalidad y creencia II.  Parte positiva
 Lectura: Libro 1, Parte 3
 Relatoría: Daniela
 Protocolo:  

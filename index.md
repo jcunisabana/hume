@@ -67,7 +67,7 @@ Los comentarios deberán ser subidos a la plataforma virtual a más tardar el *l
 Atención: Los controles de lectura 
 
 #### Protocolo
-Extensión: entre 1500 y 2500 palabras.
+Extensión: entre 1000 y 2000 palabras.
 
 En cada sesión del seminario, habrá alguien a cargo de tomar los puntos centrales tanto de la relatoría como de la discusión y ofrecer un recuento de ellos por escrito. 
 
