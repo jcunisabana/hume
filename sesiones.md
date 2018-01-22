@@ -20,26 +20,26 @@ Primer libro del *Tratado de la naturaleza humana*
 ## Semana 2 
 Teoría de las ideas.  
 Lectura: Libro 1, Partes 1 y 2
-Relatoría: 
+Relatoría: Roxanne
 Protocolo:  
 
 ## Semana 3 
 Causalidad y creencia I.  
 Lectura: Libro 1, Parte 3
-Relatoría: 
+Relatoría: Cristian
 Protocolo:  
 
 ## Semana 4 
 Causalidad y creencia II.  
 Lectura: Libro 1, Parte 3
-Relatoría: 
+Relatoría: Daniela
 Protocolo:  
 
 ## Semana 5
 
 Escepticismo y la filosofía humeana. 
 Lectura: Libro 1, Parte 4 
-Relatoría: 
+Relatoría: Nicolás Naranjo
 Protocolo:  
  
 --- 
@@ -47,10 +47,15 @@ Protocolo:
 Segundo y tercer libro del *Tratado de la naturaleza humana*
 
 ## Semana 6
+
+Sesión Lunes:
 Tema: Psicología moral Humeana
 Lectura: Libro 2, Parte 3
-Relatoría: 
+Relatoría: Pedro
 Protocolo: 
+
+Sesión Viernes: 
+2:30 a 5:30
 
 ## Semana 7
 Tema: Moralidad sin base racional
