@@ -57,12 +57,16 @@ Para cada lectura asignada, los estudiantes deben escribir un texto corto con la
 
 Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
+<p style="color:white; background-color:LightSeaGreen; padding: 5px; ">Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar *uno* sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan el control de lectura de la sesión en la que tienen que presentar la relatoría y entregan todos los demás, su nota igual queda en 5.0. </p>
+
+
 #### Comentarios a las relatorías
 Extensión: entre 400 y 500 palabras.
 
 Para cada relatoría, todos los estudiantes (salvo quien esté a cargo de la relatoría) deberán escribir un texto corto en respuesta. La respuesta puede tomar diferentes formas pero esencialmente debe ser la respuesta a una pregunta, explícita o implícita, en la relatoría o acerca de ella. 
 
 Los comentarios deberán ser subidos a la plataforma virtual a más tardar el *lunes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+
 
 #### Protocolo
 Extensión: entre 1000 y 2000 palabras.
