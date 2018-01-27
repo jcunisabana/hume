@@ -13,7 +13,7 @@ El objetivo central de esta asignatura es desarrollar las competencias filosófi
 juan.espejo1@unisabana.edu.co
 
 *Horario y salón:*
-Lunes 10:00am - 1:00pm.  AULA A201
+Lunes 10:00am - 1:00pm.  AULA Atelier 105
 
 *Página web del curso:*
 http://jcunisabana.github.io/hume
