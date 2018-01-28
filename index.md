@@ -33,8 +33,7 @@ http://jcunisabana.github.io/hume
 
 Cada sesión del seminario girará en torno a la relatoría que el estudiante encargado deberá subir a la plataforma al menos *48 horas antes de la sesión*. Los demás estudiantes deberán subir el control de lectura por tarde *75 horas antes de la sesión* para luego leer la relatoría, escribir una respuesta corta a ella y subir la respuesta a la plataforma al menos *3  horas antes de la sesión*. 
 
-Atención: si la sesión es el lunes 5 de Febrero a las 10 am, la persona que esté encargada de la relatoría debe subirla a la plataforma virtual por tarde el *sábado 3 a las 10 am*. Los demás estudiantes deberán subir su control de lectura el antes del *viernes 2 a las 7am* y sus comentarios a la relatoría *el lunes 5 a las 7am*. Quien esté a cargo del protocolo, además, deberá tener listo su protocolo para ser leído en la sesión el lunes 5 de Febrero a las 10 am.
-
+Atención: si la sesión es el lunes 5 de Febrero a las 10 am, todos los estudiantes deberán subir su control de lectura  antes del *viernes 2 a las 7am*. La persona que esté encargada de la relatoría debe subirla a la plataforma virtual por tarde el *sábado 3 a las 10 am* y los demás estudiantes deberán subir su comentarios a la relatoría a más tardar *el lunes 5 a las 7am*. Quien esté a cargo del protocolo, además, deberá tener listo su protocolo para ser leído en la sesión el lunes 5 de Febrero a las 10 am.
 
 ## Evaluación
 
