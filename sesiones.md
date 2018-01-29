@@ -21,26 +21,26 @@ Primer libro del *Tratado de la naturaleza humana*
 Teoría de las ideas.  
 Lectura: Libro 1, Partes 1 y 2
 Relatoría: Roxanne
-Protocolo:  
+Protocolo:  Pedro
 
 ## Semana 3 
 Causalidad y creencia I.  Parte negativa
 Lectura: Libro 1, Parte 3
 Relatoría: Cristian
-Protocolo:  
+Protocolo: Juan Camilo 
 
 ## Semana 4 
 Causalidad y creencia II.  Parte positiva
 Lectura: Libro 1, Parte 3
 Relatoría: Daniela
-Protocolo:  
+Protocolo:  Camila
 
 ## Semana 5
 
 Escepticismo y la filosofía humeana. 
 Lectura: Libro 1, Parte 4 
 Relatoría: Nicolás Naranjo
-Protocolo:  
+Protocolo:  Margarita
  
 --- 
 ## Teoría moral
@@ -52,50 +52,50 @@ Sesión Lunes:
 Tema: Psicología moral Humeana
 Lectura: Libro 2, Parte 3
 Relatoría: Pedro
-Protocolo: 
+Protocolo: Juan Manuel
 
 Sesión Viernes: 
 2:30 a 5:30
 Tema: Moralidad sin base racional
 Lectura: Libro 3, Parte 1
 Relatoría: Juan Camilo
-Protocolo: 
+Protocolo: Natalia
 
 ## Semana 7
 Tema: Orgullo y humildad
 Lectura: Libro II, Parte I
 Relatoría: Camila 
-Protocolo: 
+Protocolo: Nicolás Murcia
 
 ## Semana 8
 Tema: Amor y odio
 Lectura: Libro II, Parte II
 Relatoría:  Margarita
-Protocolo: 
+Protocolo: María Fernanda
 
 ## Semana 9
 Tema: Teoría de las ideas
 Lectura: 
 Relatoría:  Juan Manuel
-Protocolo: 
+Protocolo: Roxanne
 
 ## Semana 10
 Tema: Razón es esclava de las razones
 Lectura: 
-Relatoría: Sergio 
-Protocolo: 
+Relatoría: Natalia 
+Protocolo: Cristian
 
 ## Semana 11
 Tema: 
 Lectura: 
 Relatoría:  Nicolás Murcia
-Protocolo: 
+Protocolo: Daniela
 
 ## Semana 12
 Tema: 
 Lectura: 
 Relatoría:  María Fernanda
-Protocolo: 
+Protocolo: Nicolás Naranjo
 
 ## Semana 13
 Tema: 
