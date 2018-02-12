@@ -80,21 +80,21 @@ Relatoría:  Juan Manuel
 Protocolo: Roxanne
 
 ## Semana 10
-Tema: Razón es esclava de las razones
+Tema: Razón es esclava de las pasiones
 Lectura: 
-Relatoría: Natalia 
+Relatoría: Nicolás M.  
 Protocolo: Cristian
 
 ## Semana 11
-Tema: 
+Tema: Noción del Yo
 Lectura: 
-Relatoría:  Nicolás Murcia
+Relatoría: María Fernanda
 Protocolo: Daniela
 
 ## Semana 12
 Tema: 
 Lectura: 
-Relatoría:  María Fernanda
+Relatoría:  
 Protocolo: Nicolás Naranjo
 
 ## Semana 13
