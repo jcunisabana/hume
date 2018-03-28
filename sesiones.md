@@ -54,72 +54,67 @@ Lectura: Libro 2, Parte 3
 Relatoría: Pedro
 Protocolo: Juan Manuel
 
-Sesión Viernes: 
-2:30 a 5:30
+## Semana 7
 Tema: Moralidad sin base racional
 Lectura: Libro 3, Parte 1
 Relatoría: Juan Camilo
 Protocolo: Natalia
 
-## Semana 7
+## Semana 8
 Tema: Orgullo y humildad
 Lectura: Libro II, Parte I
 Relatoría: Camila 
 Protocolo: Nicolás Murcia
 
-## Semana 8
+## Semana 9
 Tema: Amor y odio
 Lectura: Libro II, Parte II
 Relatoría:  Margarita
 Protocolo: María Fernanda
 
-## Semana 9
+## Semana 10
 Tema: Teoría de las ideas
-Lectura: 
+Lectura: Hume’s Cartesian Naturalism (Fodor)
 Relatoría:  Juan Manuel
 Protocolo: Roxanne
 
-## Semana 10
+## Semana 11
 Tema: Razón es esclava de las pasiones
-Lectura: 
+Lectura: Acción, razón y pasión. (Stroud)
 Relatoría: Nicolás M.  
 Protocolo: Cristian
 
-## Semana 11
+## Semana 12
 Tema: Noción del Yo
-Lectura: 
+Lectura: La idea de la identidad personal (Stroud)
 Relatoría: María Fernanda
 Protocolo: Daniela
 
-## Semana 12
+## Semana 13
 Tema: 
 Lectura: 
 Relatoría:  
 Protocolo: Nicolás Naranjo
 
-## Semana 13
+## Semana 14
 Tema: 
 Lectura: 
 Relatoría:  Isabel
 Protocolo: 
 
-## Semana 14
+## Semana 15
 Tema: Causalidad
 Lectura: 
 Relatoría:  Cristian
 Protocolo: 
 
-## Semana 15
+## Semana 16
 Tema: Naturalismo
 Lectura: 
 Relatoría:  Nicolás Naranjo
 Protocolo: 
 
-## Semana 16
-Tema: 
-Lectura: 
-Relatoría:  
-Protocolo: 
+
 
 --- 
 ¿Es consistente el principio de la copia?
