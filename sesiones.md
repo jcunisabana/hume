@@ -92,10 +92,9 @@ Protocolo: Daniela
 
 ## Semana 13
 Tema: Simpatía
-Lectura: Hume on Moral Rationalism, Sentimentalism, and Sympathy (Charlotte R. Brown )
+Lectura: Hume on Moral Rationalism, Sentimentalism, and Sympathy (Charlotte R. Brown)
 Relatoría:  Isabel
 Protocolo: Nicolás Naranjo
-
 
 ## Semana 14
 Tema: Causalidad
