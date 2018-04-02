@@ -73,22 +73,22 @@ Relatoría:  Margarita
 Protocolo: María Fernanda
 
 ## Semana 10
+Tema: Teoría de las ideas y naturalismo
+Lectura: Hume’s Cartesian Naturalism (Jerry Fodor)
+Relatoría:  Juan Manuel
+Protocolo: Roxanne
+
+## Semana 11
 Tema: Razón es esclava de las pasiones
 Lectura: Acción, razón y pasión. (Barry Stroud)
 Relatoría: Nicolás M.  
 Protocolo: Cristian
 
-## Semana 11
+## Semana 12
 Tema: Noción del Yo
 Lectura: La idea de la identidad personal (Barry Stroud)
 Relatoría: María Fernanda
 Protocolo: Daniela
-
-## Semana 12
-Tema: Teoría de las ideas y naturalismo
-Lectura: Hume’s Cartesian Naturalism (Jerry Fodor)
-Relatoría:  Juan Manuel
-Protocolo: Roxanne
 
 ## Semana 13
 Tema: Simpatía
